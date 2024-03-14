@@ -1,5 +1,5 @@
 ### Hi I'm Jesse!
-
+I'm currently studying Computer Science @ the University of Queensland
 
 <!--
 **jesse-wang0/jesse-wang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
