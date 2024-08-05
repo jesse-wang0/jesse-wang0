@@ -1,4 +1,5 @@
-### Hi I'm Jesse!
+# Hi, I'm Jesse! 👋
+
 I'm currently studying a Bachelor of Computer Science and Data Science at the University of Queensland.
 
 <!--
