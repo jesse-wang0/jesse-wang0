@@ -1,6 +1,12 @@
 # Hi, I'm Jesse! 👋
 
-I'm studying a **Bachelor of Computer Science** at the **University of Queensland**, with a passion for data engineering.
+<img src="https://github.com/jesse-wang0/jesse-wang0/raw/main/assets/frog.gif" width="180"/>
+
+<pre>
+    🎓 Studying BCompSc @ UQ
+    📚 Specialising in Data Engineering
+    🍵 Into long runs & late-night coding
+</pre>
 
 <!--
 **jesse-wang0/jesse-wang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
