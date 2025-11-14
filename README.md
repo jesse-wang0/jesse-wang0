@@ -3,9 +3,9 @@
 <img src="https://github.com/jesse-wang0/jesse-wang0/raw/main/assets/frog.gif" width="180"/>
 
 <pre>
-    🎓 Studying BCompSc @ UQ
-    📚 Specialising in Data Engineering
-    🍵 Into long runs & late-night coding
+🎓 Studying BCompSc @ UQ
+📚 Specialising in Data Engineering
+🍵 Into long runs & late-night coding
 </pre>
 
 <!--
