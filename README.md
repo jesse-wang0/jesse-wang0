@@ -5,7 +5,6 @@
 <pre>
 🎓 Studying BCompSc @ UQ
 📚 Specialising in Data Engineering
-🍵 Into long runs & late-night coding
 </pre>
 
 <!--
