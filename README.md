@@ -4,7 +4,6 @@
 
 <pre>
 🎓 BCompSc @ UQ
-📚 Specialising in Data Engineering
 </pre>
 
 <!--
